@@ -8,6 +8,9 @@ namespace OlaProject
 {
     class OlaClass
     {
-
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello hejkaaaaa!");
+        }
     }
 }
