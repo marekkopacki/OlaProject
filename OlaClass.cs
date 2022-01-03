@@ -11,6 +11,7 @@ namespace OlaProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello hejkaaaaa!");
+            Console.WriteLine("Hello hejkaaaaa!");
         }
     }
 }
