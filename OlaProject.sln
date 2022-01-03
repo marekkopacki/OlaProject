@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlaProject", "OlaProject.csproj", "{5424AE3E-89EA-401F-900F-9091D52FBF8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ola2", "..\Ola2\Ola2.csproj", "{ACF6BCEF-1A9E-44A3-AC5E-9B9436C67674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5424AE3E-89EA-401F-900F-9091D52FBF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5424AE3E-89EA-401F-900F-9091D52FBF8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5424AE3E-89EA-401F-900F-9091D52FBF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5424AE3E-89EA-401F-900F-9091D52FBF8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACF6BCEF-1A9E-44A3-AC5E-9B9436C67674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF6BCEF-1A9E-44A3-AC5E-9B9436C67674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF6BCEF-1A9E-44A3-AC5E-9B9436C67674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF6BCEF-1A9E-44A3-AC5E-9B9436C67674}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85D3C345-92DB-4B8E-BD66-8BFDA2A7DA5C}
+	EndGlobalSection
+EndGlobal
